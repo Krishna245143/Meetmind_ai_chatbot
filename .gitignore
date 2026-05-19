@@ -1,0 +1,22 @@
+# Never upload these
+venv/
+uploads/
+outputs/
+jobs.json
+__pycache__/
+*.pyc
+*.pyo
+.env
+qdrant_data/
+*.wav
+*.mp3
+*.mp4
+*.mkv
+*.avi
+*.m4a
+*.ogg
+*.flac
+*.zip
+.DS_Store
+Thumbs.db
+*.pt
